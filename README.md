@@ -235,7 +235,7 @@ than the learning algorithm.
 **Requirements:** Python 3.10+
 
 ```bash
-git clone https://github.com/<your-username>/love-letter-cfr.git
+git clone https://github.com/ctjh/love-letter-cfr.git
 cd love-letter-cfr
 python -m venv .venv
 source .venv/bin/activate        # Windows: .venv\Scripts\activate
